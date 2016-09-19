@@ -1,0 +1,6 @@
+c:\users\shahista.agrista\documents\visual studio 2013\Projects\Learning\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\shahista.agrista\documents\visual studio 2013\Projects\Learning\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\shahista.agrista\documents\visual studio 2013\Projects\Learning\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\shahista.agrista\documents\visual studio 2013\Projects\Learning\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\shahista.agrista\documents\visual studio 2013\Projects\Learning\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\shahista.agrista\documents\visual studio 2013\Projects\Learning\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
