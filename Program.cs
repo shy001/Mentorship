@@ -238,7 +238,7 @@ namespace ConsoleApplication1
 
         private static int RecursiveAlgorithm(string[] movies, int highPosition, int lowPosition = 0)
         {
-            string findMovie = "Speed";
+            string findMovie = "Charlie";
             int middlePosition = (highPosition + lowPosition) / 2;
             string guess = movies[middlePosition];
             if (Compare(findMovie, guess) == 0)
@@ -252,7 +252,11 @@ namespace ConsoleApplication1
             else
             {
                 highPosition = middlePosition - 1;
-            }   
+            }
+            if (highPosition < lowPosition)
+            {
+                return -1;
+            }
             return RecursiveAlgorithm(movies,highPosition, lowPosition);
         }
 
